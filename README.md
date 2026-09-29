@@ -6,6 +6,12 @@ This project was completed as part of the HSE 751 Programming for Health Data Sc
 
 The notebook documents the full workflow from environment setup and data validation through descriptive statistics, visualization, correlation analysis, inferential statistical testing, and interpretation of results. It is designed so that another data science team can reproduce the analysis from the provided dataset and notebook.
 
+## Google Colab Notebook
+
+The completed analysis can be viewed and executed in Google Colab:
+
+[[Open the completed notebook in Google Colab]](https://colab.research.google.com/drive/1Ci2_J-RXajADlPmacMQLezed3NDX85vn?usp=sharing)
+
 ## Analysis Overview
 
 The dataset contains 768 observations and nine variables. Eight patient characteristics are examined in relation to a binary diabetes outcome:
